@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalipudi
-- 👀 I’m interested in  C#,Angular,Python,Javascript,TypeScript
-- 🌱 I’m currently learning ...>.Net Core And Angular
-- 💞️ I’m looking to collaborate on ... Asp.net Webforms .Net MVC ,javaScript,C#,Angular13
+- 👀 I’m interested in  C#,Blazor,Javascript,Asp.NetCore,MAUI
+- 🌱 I’m currently learning ...>MAUI
+- 💞️ I’m looking to collaborate on ... .Net Core .Net MVC ,javaScript,Blazor,Maui
 - 📫 How to reach me ...kalicharanpudi@gmail.com
 
 <!---
