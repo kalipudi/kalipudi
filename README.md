@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kalipudi
 - 👀 I’m interested in  C#,Blazor,Javascript,Asp.NetCore,MAUI
-- 🌱 I’m currently learning ...>MAUI
 - 💞️ I’m looking to collaborate on ... .Net Core .Net MVC ,javaScript,Blazor,Maui
 - 📫 How to reach me ...kalicharanpudi@gmail.com
 
